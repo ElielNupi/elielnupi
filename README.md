@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/eliel-nunes-pinto-046563206/">
   <img align="left" alt="Eliel Linkedln" width="24px" src="https://img.icons8.com/color/48/linkedin.png" />
 </a>
-<a href="https://www.instagram.com/ellz_np/">
-  <img align="left" alt="Eliel Instagram" width="24px" src="https://img.icons8.com/color/48/instagram-new--v1.png" />
-</a>
 <a href="https://twitter.com/ellzdotnet">
   <img align="left" alt="Eliel Twitter" width="24px" src="https://img.icons8.com/fluency/48/twitterx--v1.png" />
 </a>
